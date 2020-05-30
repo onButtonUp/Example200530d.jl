@@ -1,7 +1,7 @@
 name = "Example200530d"
 uuid = "50b74380-912d-45f4-a163-fe4bb3dbd74b"
 authors = ["John Ferrier"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
