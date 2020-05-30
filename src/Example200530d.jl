@@ -1,5 +1,7 @@
 module Example200530d
 
+greet() = print("Hello world!")
+
 using ForwardDiff
 
 include("extra_file.jl")
