@@ -4,3 +4,5 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/onButtonUp/Example200530d.jl?svg=true)](https://ci.appveyor.com/project/onButtonUp/Example200530d-jl)
 [![Coverage](https://codecov.io/gh/onButtonUp/Example200530d.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/onButtonUp/Example200530d.jl)
 [![Coverage](https://coveralls.io/repos/github/onButtonUp/Example200530d.jl/badge.svg?branch=master)](https://coveralls.io/github/onButtonUp/Example200530d.jl?branch=master)
+
+This is a demo repository to use with the current versions of apps.
